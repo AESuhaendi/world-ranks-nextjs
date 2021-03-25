@@ -16,6 +16,10 @@
   margin-bottom: 32px;
 }
 
+.header_logo {
+  cursor: pointer;
+}
+
 .footer {
   margin-top: 32px;
   text-align: center;
@@ -35,4 +39,5 @@
   align-items: center;
 
   outline: none;
+  cursor: pointer;
 }
