@@ -80,6 +80,10 @@
   text-align: center;
 }
 
+.details_panel_borders_flag {
+  cursor: pointer;
+}
+
 .details_panel_borders_label {
   color: var(--text-color-secondary);
   margin-bottom: 20px;
